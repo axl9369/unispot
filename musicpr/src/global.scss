@@ -1,0 +1,61 @@
+// http://ionicframework.com/docs/theming/
+@import '~@ionic/angular/css/core.css';
+@import '~@ionic/angular/css/normalize.css';
+@import '~@ionic/angular/css/structure.css';
+@import '~@ionic/angular/css/typography.css';
+@import '~@ionic/angular/css/display.css';
+@import '~@ionic/angular/css/padding.css';
+@import '~@ionic/angular/css/float-elements.css';
+@import '~@ionic/angular/css/text-alignment.css';
+@import '~@ionic/angular/css/text-transformation.css';
+@import '~@ionic/angular/css/flex-utils.css';
+//Css
+.searchbar-input{
+
+  border-radius: 10px !important;
+  border: 1px solid #808080 !important;
+}
+ion-icon.iconcina{
+  position: relative;
+  left: 200px;
+}
+ion-icon{
+  color:red;
+}
+ion-fab-button{
+  height: 60px;
+  width: 60px;
+  position: relative;
+  bottom :68px;
+  right: 0px;
+  color: white;
+  border-style: solid;
+  border-radius: 50%;
+  border-width: 1px;
+  border-color: red;
+  -moz-transition: red;
+}
+#mappa{
+  transform: rotate(180deg);
+}
+ion-icon.icon {
+  color: black;
+}
+ion-label.icona{
+  font-size: 120% ;
+  color: #000;
+}
+#icona{
+  left:100px;
+}
+
+.h2{
+  font-size: 150%;
+  font-family: Arial;
+}
+
+
+
+
+
+
